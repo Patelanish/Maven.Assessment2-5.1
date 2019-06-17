@@ -1,5 +1,6 @@
 package rocks.zipcode.assessment2.fundamentals.predicateutilities;
 
+
 import org.junit.Assert;
 import org.junit.Test;
 import rocks.zipcode.assessment2.fundamentals.PredicateUtilities;

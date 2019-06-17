@@ -6,6 +6,7 @@ package rocks.zipcode.assessment2.objectorientation.animals;
  */
 public class Dog {
     public String speak() {
-        return null;
+
+        return "Woof!\nWoof!";
     }
 }
